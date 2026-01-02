@@ -7,7 +7,7 @@
 ---
 
 **Autor**: Ítalo Santos Clemente (ISC)  
-**Instituição**: Universidad Diego Portales (Doutorado em Filosofia)  
+**Instituição**: Universidad Diego Portales (Doutorando em Filosofia)  
 **Afiliação Anterior**: UNICAMP — Instituto de Filosofia e Ciências Humanas  
 **Versão**: 2.0.0 (Revisão Completa)  
 **Data**: 28 de dezembro de 2025  
